@@ -68,5 +68,11 @@ button{
 }
 button:hover{
     background-color: aquamarine;
-
+}
+a{
+    color: #4caf50;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
 }
